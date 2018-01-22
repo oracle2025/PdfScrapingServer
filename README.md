@@ -3,3 +3,4 @@ Finds all PDF Files on the local Harddisk, uploads them to the server, which ind
 
 Dependencies:
 * https://pypi.python.org/pypi/Whoosh
+* https://pypi.python.org/pypi/pdfminer/
